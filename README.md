@@ -21,7 +21,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
+![](https://github.com/UkritFB/LAB-05/blob/master/5.2.PNG?raw=true)
 
 
 
