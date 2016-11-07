@@ -38,11 +38,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/UkritFB/LAB-05/blob/master/5.3.PNG?raw=true)
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
