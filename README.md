@@ -47,11 +47,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/UkritFB/LAB-05/blob/master/5.5.PNG?raw=true)
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
 {จุดจบของบรรทัด, จุดเริ่มต้นของบรรทัด}
